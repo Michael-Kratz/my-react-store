@@ -1,0 +1,15 @@
+.catalog {
+  margin: 2rem 0;
+}
+
+.catalog .list {
+  max-width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  justify-content: center;
+}
+
+.products {
+  width: 220px; /* keeps card size consistent */
+}

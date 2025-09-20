@@ -1,0 +1,48 @@
+.todo {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #eceff0;
+}
+
+.todo h1 {
+  font-size: 2em;
+  color: darkcyan;
+}
+
+.todo .form-label {
+  margin-bottom: 8px;
+  font-weight: bold;
+  width: 80px;
+  text-align: right;
+  display: inline-block;
+  color: #333;
+}
+
+.todo-input {
+  width: 175px;
+  padding: 3px 5px;
+  margin: 6px 5px;
+}
+
+.todo ul {
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333;
+}
+
+.todo ul li {
+  list-style-type: none;
+  border: 1px solid #b4b9bd;
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 4px;
+  margin-bottom: 6px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.todo ul li:hover {
+  border-color: tomato;
+  background-color: rgb(237, 228, 227);
+}

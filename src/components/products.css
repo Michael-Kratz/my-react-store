@@ -1,0 +1,26 @@
+.products {
+  background: #45448b;
+  border-radius: 8px;
+  padding: 1rem;
+  margin: 1rem;
+  text-align: center;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  transition: transform 0.2s ease;
+}
+
+.products:hover {
+  transform: translateY(-4px);
+}
+
+.products h2 {
+  margin-bottom: 0.5rem;
+  font-size: 1.2rem;
+  color: #e7ebef;
+}
+
+.products img {
+  width: 200px;
+  height: auto;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+}

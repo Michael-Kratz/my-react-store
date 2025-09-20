@@ -1,0 +1,15 @@
+.contact {
+  text-align: center;
+  margin-top: 20px;
+  background-color: rgba(255, 235, 205, 0.705);
+}
+
+.contact h1 {
+  color: darkcyan;
+  margin-bottom: 10px;
+}
+
+.contact h4 {
+  color: #333;
+  margin: 5px 0;
+}

@@ -1,0 +1,34 @@
+.products-form {
+  border: 1px solid #333;
+  border-radius: 6px;
+  max-width: 600px;
+  background-color: #eceff0;
+  padding: 12px;
+}
+
+.products-form h3 {
+  color: #333;
+}
+
+.product-label {
+  width: 80px;
+  text-align: right;
+  display: inline-block;
+  color: #333;
+}
+
+.product-control {
+  width: 175px;
+  padding: 3px 5px;
+  margin: 6px 5px;
+}
+
+.product-form .controls {
+  text-align: center;
+  margin: 12px 0;
+}
+
+.products-form .list {
+  color: #333;
+  list-style-type: none;
+}

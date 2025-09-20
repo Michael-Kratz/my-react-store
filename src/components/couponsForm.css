@@ -1,0 +1,45 @@
+.coupons-form {
+  border: 1px solid #333;
+  border-radius: 6px;
+  max-width: 600px;
+  background-color: #f6fbfc;
+  padding: 10px 20px;
+}
+
+.coupons-form h3 {
+  color: #333;
+  margin-top: 0px;
+  margin-bottom: 12px;
+}
+
+.form-label {
+  width: 80px;
+  text-align: right;
+  display: inline-block;
+  color: #333;
+}
+
+.form-control {
+  width: 120px;
+  padding: 3px 5px;
+  margin: 6px 5px;
+}
+
+.coupons-form .controls {
+  text-align: center;
+  margin: 12px 0;
+}
+
+.coupons-form .list {
+  color: #333;
+  list-style-type: none;
+}
+
+.coupons-form .error {
+  color: red;
+  margin-bottom: 5px;
+  border: 1px solid rgba(250, 43, 7, 0.884);
+  border-radius: 4px;
+  background-color: #fcfcea;
+  padding: 5px;
+}

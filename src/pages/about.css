@@ -1,0 +1,28 @@
+.about {
+  min-width: 400px;
+  background-color: #f0f8ffb0;
+  padding: 20px;
+}
+.about h5 {
+  color: #333;
+  margin: 10px 0;
+}
+
+.about h1 {
+  color: darkcyan;
+  margin: 10px 0;
+}
+
+.about h3 {
+  color: #333;
+  text-align: center;
+  margin: 0 0 20px 0;
+}
+
+.about img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 6px;
+  max-width: 80%;
+  border-radius: 60%;
+}
